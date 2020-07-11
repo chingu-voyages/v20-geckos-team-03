@@ -13,7 +13,7 @@ Some of the features of this app are:
 - Add the products to the cart and go to checkout
 - Checkout the products in your shopping cart (this checkout is fake obviously so your payment is not actually going to be processed!)
 
-The app is deployed [here](https://v18toucans05.netlify.app/).
+The app is deployed [here](https://v20-geckos-team-03.netlify.app/).
 
 ## Getting Started
 
@@ -47,6 +47,7 @@ the hosting service for your Production deployment.
 |---------------------|-------------|
 | SPACE_ID             | Space ID for the [contentful](https://www.contentful.com/) |
 | CONTENT_DELIVERY_API | Contennt Delivery API key for the  [contentful](https://www.contentful.com/) |
+| STRIPE_KEY | KEY FOR CONNECTING WITH STRIPE SERVICE  [Stripe](https://stripe.com/) |
 
 ## Authors
 
